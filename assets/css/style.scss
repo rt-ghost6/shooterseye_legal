@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Shooter's Eye branding - black to gold gradient
+header {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2416 50%, #d4af37 100%);
+  background-attachment: fixed;
+}
+
+h1, h2 {
+  color: #f0f0f0;
+}
+
+.project-tagline {
+  color: #e8dcc8;
+}
+
+.btn {
+  background-color: #d4af37;
+  border-color: #d4af37;
+  color: #1a1a1a;
+}
+
+.btn:hover {
+  background-color: #f4d856;
+  border-color: #f4d856;
+}
