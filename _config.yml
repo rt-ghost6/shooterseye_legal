@@ -9,3 +9,6 @@ theme: jekyll-theme-minimal
 title: "Shooter's Eye — Legal Documentation"
 description: "Legal documents, privacy policy, and support information for Shooter's Eye"
 show_downloads: false
+
+plugins: []
+github: null
