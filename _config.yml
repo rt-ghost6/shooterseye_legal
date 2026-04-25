@@ -1,0 +1,11 @@
+# Disable Jekyll's built-in edit button
+github:
+  private: false
+
+# Use a professional GitHub Pages theme (if desired)
+theme: jekyll-theme-minimal
+
+# Metadata
+title: "Shooter's Eye — Legal Documentation"
+description: "Legal documents, privacy policy, and support information for Shooter's Eye"
+show_downloads: false
