@@ -31,12 +31,6 @@ Shooter's Eye is a Windows desktop application that provides:
 - Side-by-side comparison of multiple runs
 - Video export with analysis overlays
 
-For more information, visit the main repository: https://github.com/rt-ghost6/ShootersEye
-
-## ⚖️ Open Source
-
-This repository is maintained as a public resource for the Shooter's Eye community. All documentation is available under the CC0-1.0 public domain license.
-
 ---
 
 **Last Updated:** April 2026  
