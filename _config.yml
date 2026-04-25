@@ -12,3 +12,4 @@ show_downloads: false
 
 plugins: []
 github: null
+theme: jekyll-theme-cayman
